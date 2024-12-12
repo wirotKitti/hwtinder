@@ -106,7 +106,7 @@ a:link.btn, a:visited.btn{
     background-color: #ea5c52;
     color: white;
     padding: 14px 25px;
-    border-radius: 40% 40% 40% 40%;
+    border-radius: 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -118,7 +118,7 @@ a:link.btn, a:visited.btn{
     background-color: #eeeeee;
     color: rgb(0, 0, 0);
     padding: 14px 25px;
-    border-radius: 40% 40% 40% 40%;
+    border-radius: 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
